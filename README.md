@@ -1,7 +1,9 @@
-### Hi there 👋
+
+Hello There , Welcome to my Github profile.
+
+I am Aminul Islam,former fintech employee.
 
 
-**aminulraju/aminulraju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
