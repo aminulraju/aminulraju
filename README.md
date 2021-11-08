@@ -5,6 +5,16 @@ I am Aminul Islam,former fintech employee.
 
 
 
+
+
+
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
